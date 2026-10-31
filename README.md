@@ -1,4 +1,4 @@
-# OSEA — Offensive Security & Exploit Analyst
+# # OSEA-AI-Skill: AI Cybersecurity Skill for Secure Code Review
 
 > A zero-trust AI skill for vulnerability research, secure code auditing, and hardened defensive architecture.
 
